@@ -1,1 +1,5 @@
+#ignore folder IDE artifacts
 .vscode
+
+#generated at runtime
+/test_version/version.h
